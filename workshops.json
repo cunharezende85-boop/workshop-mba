@@ -1,6 +1,6 @@
 {
   "curso": "MBA IA Aplicada ao Direito",
-  "atualizadoEm": "2026-05-19",
+  "atualizadoEm": "2026-05-21",
   "workshops": [
     {
       "id": 1,
@@ -83,18 +83,6 @@
           "url": "https://empregadados-my.sharepoint.com/:x:/g/personal/otacilio_empregadados_com_br/IQByr6yJaN9lQJ2Z0B4GMJOsAT8YEnAoiWVwwD7YxNcpJsA?e=DgheyE"
         }
       ]
-    },
-     {
-      "id": 7,
-      "data": "20/05/2026",
-      "tema": "Agendamentos de Tarefas Jurídicas com IA",
-      "descricao": "Aborda como utilizar Inteligência Artificial para automatizar e organizar tarefas jurídicas, prazos e acompanhamentos de forma eficiente.",
-      "videoUrl": "https://vimeo.com/1194459555/e0522c7e49",
-      "materiais": [
-        {
-          "nome": "Agendamento Jurídico IA",
-          "url": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQDN8h2D--rzTYzNKrhEOYUlAdnqtg1o2S-SfUDS2g9BPLs?e=K44gJW"
-        }
-      ]
-     }
-    
+    }
+  ]
+}
