@@ -83,6 +83,19 @@
           "url": "https://empregadados-my.sharepoint.com/:x:/g/personal/otacilio_empregadados_com_br/IQByr6yJaN9lQJ2Z0B4GMJOsAT8YEnAoiWVwwD7YxNcpJsA?e=DgheyE"
         }
       ]
+    },
+    {
+      "id": 7,
+      "data": "20/05/2026",
+      "tema": "Agendamento de Tarefas Juridicas com IA",
+      "descricao": "Aborda como utilizar Inteligencia Artificial para automatizar e organizar tarefas juridicas, prazos e acompanhamentos de forma eficiente.",
+      "videoUrl": "https://vimeo.com/1194459555/e0522c7e49",
+      "materiais": [
+        {
+          "nome": "Material Agendamento Juridico com IA",
+          "url": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQDN8h2D--rzTYzNKrhEOYUlAdnqtg1o2S-SfUDS2g9BPLs?e=4IQieP"
+        }
+      ]
     }
   ]
 }
