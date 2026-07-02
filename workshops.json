@@ -1,6 +1,6 @@
 {
   "curso": "MBA IA Aplicada ao Direito",
-  "atualizadoEm": "2026-05-21",
+  "atualizadoEm": "2026-07-02",
   "workshops": [
     {
       "id": 1,
@@ -94,6 +94,23 @@
         {
           "nome": "Material Agendamento Juridico com IA",
           "url": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQDN8h2D--rzTYzNKrhEOYUlAdnqtg1o2S-SfUDS2g9BPLs?e=4IQieP"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "data": "01/07/2026",
+      "tema": "Banco de Peticoes com IA: arquitetura, ingestao e redacao assistida",
+      "descricao": "Como estruturar um banco inteligente de peticoes com IA, desde a arquitetura e ingestao de documentos ate a redacao assistida de novas pecas juridicas.",
+      "videoUrl": "https://vimeo.com/1206537190/3b9747f717",
+      "materiais": [
+        {
+          "nome": "Acervo Inteligente de Peticoes (PDF)",
+          "url": "https://empregadados-my.sharepoint.com/:b:/g/personal/otacilio_empregadados_com_br/IQBtZ1E2xZN0QqMteRGpaNEZActCZC9evs4e9hz3GdDGG3M?e=T2iATI"
+        },
+        {
+          "nome": "Banco de Peticoes Airtable (CSV)",
+          "url": "https://empregadados-my.sharepoint.com/:x:/g/personal/otacilio_empregadados_com_br/IQDy4eASb7HgQ6YJulCPAxvrAfxE6Z2UegkgxOupLPFdxQE?e=d8xgis"
         }
       ]
     }
