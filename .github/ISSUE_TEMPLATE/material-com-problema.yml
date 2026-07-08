@@ -1,0 +1,28 @@
+name: Material ou vídeo com problema
+description: Reporte um vídeo fora do ar ou link de material quebrado
+title: "[Problema] "
+labels: ["conteúdo"]
+body:
+  - type: input
+    id: workshop
+    attributes:
+      label: Qual workshop?
+      placeholder: "Ex: Workshop 03 - Aplicando Engenharia de Prompt..."
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de problema
+      options:
+        - Vídeo não abre
+        - Link de material quebrado
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: detalhes
+    attributes:
+      label: Descreva o que aconteceu
+    validations:
+      required: true
